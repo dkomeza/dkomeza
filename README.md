@@ -46,6 +46,6 @@
     </tr>
   </table>
   
-  - <h2>🕒 Coding time</h2>
-   <!--START_SECTION:waka-->
-   <!--END_SECTION:waka-->
+- <h2>🕒 Coding time</h2>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
