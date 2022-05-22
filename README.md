@@ -19,6 +19,7 @@
   me = aboutMe()
   me.say_hi()
   ```
+  
 - <h2>🔨 Tools I'm using</h2>
 - ```html
   <ul>
@@ -28,10 +29,12 @@
     <li>Javascript</li>
     <li>Python</li>
   </ul>
-- <h2>🌱 I’m currently learning </h2>
+  
+- <h2>🌱 I’m currently learning</h2>
 - ```javascript
   let learning = ['ReactJS', 'NextJS', 'Python']
   ```
+  
 - <h2>📫 How to reach me</h2>
 - ```html
   <table>
@@ -42,3 +45,7 @@
       <td>Twitter: </td><td><a href="https://twitter.com/dkomeza" target="_blank">@dkomeza</a></td>
     </tr>
   </table>
+  
+  - <h2>🕒 Coding time</h2>
+   <!--START_SECTION:waka-->
+   <!--END_SECTION:waka-->
