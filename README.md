@@ -39,7 +39,10 @@
   
 - <h2>🌱 I’m currently learning</h2>
 - ```javascript
-  let learning = ['ReactJS', 'NextJS', 'Python']
+  let learning = {
+      python: [flask, pandas, matplotlib, api, numpy, opencv],
+      javascript: [reactjs, nodejs, express]
+  }
   ```
   
 - <h2>📫 How to reach me</h2>
