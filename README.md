@@ -60,7 +60,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 28 August 2022 - To: 04 September 2022
+
+Total Time: 8 mins
+
+Other        36 mins         ████████████████████▒░░░░   81.54 %
 ```
 
 <!--END_SECTION:waka-->
