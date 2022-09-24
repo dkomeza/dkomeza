@@ -60,16 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 September 2022 - To: 20 September 2022
+From: 15 September 2022 - To: 22 September 2022
 
-Total Time: 8 hrs 57 mins
+Total Time: 9 hrs 40 mins
 
-JavaScript      2 hrs           █████▒░░░░░░░░░░░░░░░░░░░   21.16 %
-Docker          1 hr 55 mins    █████░░░░░░░░░░░░░░░░░░░░   20.32 %
-TypeScript      1 hr 45 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.55 %
-SCSS            54 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
-Markdown        43 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
-C++             34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
+JavaScript   4 hrs 1 min     ██████████░░░░░░░░░░░░░░░   39.97 %
+Docker       1 hr 57 mins    █████░░░░░░░░░░░░░░░░░░░░   19.40 %
+HTML         1 hr 30 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.01 %
+Python       38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
+Other        24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
 ```
 
 <!--END_SECTION:waka-->
