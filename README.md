@@ -60,16 +60,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 October 2022 - To: 15 October 2022
+From: 09 October 2022 - To: 16 October 2022
 
-Total Time: 9 hrs 48 mins
+Total Time: 12 hrs 13 mins
 
-JavaScript    7 hrs 44 mins   ███████████████████▓░░░░░   78.79 %
-C++           55 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.44 %
-HTML          25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
-TypeScript    24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
-Objective-C   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
-C             4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+JavaScript    9 hrs 45 mins   ████████████████████░░░░░   79.90 %
+C++           55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
+HTML          41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+TypeScript    25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+Objective-C   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+C             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->
