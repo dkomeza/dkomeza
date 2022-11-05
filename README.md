@@ -60,16 +60,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 October 2022 - To: 02 November 2022
+From: 27 October 2022 - To: 03 November 2022
 
-Total Time: 6 hrs
+Total Time: 7 hrs 39 mins
 
-JavaScript   2 hrs 58 mins   ████████████▒░░░░░░░░░░░░   49.06 %
-C++          1 hr 16 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.94 %
-TypeScript   45 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 %
-HTML         42 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
-SCSS         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+JavaScript   4 hrs 14 mins   █████████████▓░░░░░░░░░░░   55.29 %
+TypeScript   1 hr 25 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.67 %
+C++          1 hr 16 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.59 %
+HTML         22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
+SCSS         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+JSON         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
 ```
 
 <!--END_SECTION:waka-->
