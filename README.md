@@ -60,16 +60,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 November 2022 - To: 22 November 2022
+From: 16 November 2022 - To: 23 November 2022
 
-Total Time: 7 hrs 31 mins
+Total Time: 6 hrs 43 mins
 
-JavaScript   3 hrs           ██████████░░░░░░░░░░░░░░░   39.71 %
-TypeScript   1 hr 35 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.06 %
-HTML         1 hr 8 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   15.19 %
-Properties   59 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.05 %
-Python       41 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
-Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+JavaScript   3 hrs           ███████████░░░░░░░░░░░░░░   44.43 %
+TypeScript   1 hr 1 min      ███▓░░░░░░░░░░░░░░░░░░░░░   15.19 %
+Properties   59 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.60 %
+HTML         52 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.00 %
+Python       41 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 %
+TOML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
 ```
 
 <!--END_SECTION:waka-->
