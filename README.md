@@ -60,16 +60,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 December 2022 - To: 21 December 2022
+From: 15 December 2022 - To: 22 December 2022
 
-Total Time: 16 hrs 20 mins
+Total Time: 16 hrs 22 mins
 
-SCSS         5 hrs 56 mins   █████████░░░░░░░░░░░░░░░░   35.94 %
-TypeScript   2 hrs 41 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.27 %
-JavaScript   2 hrs 37 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.83 %
-HTML         1 hr 40 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
-C++          1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
-JSON         1 hr 8 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
+SCSS         6 hrs 12 mins   █████████▒░░░░░░░░░░░░░░░   37.47 %
+TypeScript   3 hrs 19 mins   █████░░░░░░░░░░░░░░░░░░░░   20.02 %
+JavaScript   2 hrs 23 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.43 %
+HTML         1 hr 40 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
+JSON         1 hr 8 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
+CSS          41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
 ```
 
 <!--END_SECTION:waka-->
