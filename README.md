@@ -60,16 +60,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 January 2023 - To: 29 January 2023
+From: 23 January 2023 - To: 30 January 2023
 
-Total Time: 33 hrs 58 mins
+Total Time: 34 hrs 42 mins
 
-C++                15 hrs 6 mins   ███████████░░░░░░░░░░░░░░   43.81 %
-TypeScript         8 hrs 4 mins    ██████░░░░░░░░░░░░░░░░░░░   23.44 %
-Rust               2 hrs 34 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
-C#                 1 hr 52 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
-PHP                1 hr 48 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
-JSON               1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+C++                13 hrs 15 mins  █████████▒░░░░░░░░░░░░░░░   37.52 %
+TypeScript         8 hrs 57 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.34 %
+PHP                3 hrs 45 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 %
+Rust               2 hrs 34 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
+C#                 1 hr 52 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+JSON               1 hr 25 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
 ```
 
 <!--END_SECTION:waka-->
