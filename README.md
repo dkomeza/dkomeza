@@ -72,3 +72,6 @@ Other         45 mins         █░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+ - <h2>:computer: Languages I use</h2>
+ - <a href="https://wakatime.com"><img src="https://wakatime.com/share/@c31628c9-1088-43b5-852b-e92972eaabe6/e653ca91-8397-4579-9132-0c3ef14be511.png" /></a>
