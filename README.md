@@ -60,15 +60,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 February 2023 - To: 13 February 2023
+From: 07 February 2023 - To: 14 February 2023
 
-Total Time: 19 hrs 21 mins
+Total Time: 23 hrs 43 mins
 
-Rust          11 hrs 54 mins  ██████████████▓░░░░░░░░░░   59.21 %
-TypeScript    4 hrs 44 mins   ██████░░░░░░░░░░░░░░░░░░░   23.55 %
-C++           56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
-HTML          45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
-Other         45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+Rust          17 hrs 37 mins  ██████████████████░░░░░░░   72.05 %
+TypeScript    3 hrs 37 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.79 %
+C++           56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+Other         45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
 ```
 
 <!--END_SECTION:waka-->
