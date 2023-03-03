@@ -60,16 +60,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 February 2023 - To: 28 February 2023
+From: 22 February 2023 - To: 01 March 2023
 
-Total Time: 17 hrs 14 mins
+Total Time: 21 hrs 23 mins
 
-Rust                       6 hrs 48 mins   █████████▓░░░░░░░░░░░░░░░   39.23 %
-TypeScript                 5 hrs 35 mins   ████████░░░░░░░░░░░░░░░░░   32.20 %
-Docker                     1 hr 13 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
-PHP                        1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
-YAML                       39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
-Nginx configuration file   38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+TypeScript                 5 hrs 35 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.92 %
+PHP                        5 hrs 26 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.22 %
+Rust                       5 hrs 13 mins   ██████░░░░░░░░░░░░░░░░░░░   24.21 %
+CSS                        1 hr 24 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
+Docker                     1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
+YAML                       39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
 ```
 
 <!--END_SECTION:waka-->
