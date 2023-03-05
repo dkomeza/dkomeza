@@ -60,16 +60,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 February 2023 - To: 02 March 2023
+From: 24 February 2023 - To: 03 March 2023
 
-Total Time: 19 hrs 16 mins
+Total Time: 19 hrs 49 mins
 
-PHP                        5 hrs 43 mins   ███████▒░░░░░░░░░░░░░░░░░   29.19 %
-TypeScript                 5 hrs 39 mins   ███████▒░░░░░░░░░░░░░░░░░   28.85 %
-Rust                       3 hrs 30 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.86 %
-CSS                        1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
-Python                     1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
-Nginx configuration file   23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+TypeScript   6 hrs 49 mins   ████████▒░░░░░░░░░░░░░░░░   33.85 %
+PHP          6 hrs 24 mins   ████████░░░░░░░░░░░░░░░░░   31.79 %
+Rust         2 hrs 34 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.80 %
+CSS          1 hr 27 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
+Python       1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
+Other        20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
 ```
 
 <!--END_SECTION:waka-->
