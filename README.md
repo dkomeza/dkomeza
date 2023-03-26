@@ -60,12 +60,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 March 2023 - To: 23 March 2023
+From: 17 March 2023 - To: 24 March 2023
 
-Total Time: 15 hrs 41 mins
+Total Time: 17 hrs 32 mins
 
-TypeScript         13 hrs 34 mins  █████████████████████░░░░   83.44 %
-Other              34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
+TypeScript         14 hrs 26 mins  ███████████████████▓░░░░░   78.48 %
+Other              51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
 ```
 
 <!--END_SECTION:waka-->
