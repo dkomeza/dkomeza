@@ -14,7 +14,7 @@
   class aboutMe:
       def __init__(self):
           self.name = "Dawid Komęza"
-          self.age = 17
+          self.age = 18
           self.job = High School
           self.role = "Frontend Developer"
           self.language_spoken = ["pl_PL", "en_US"]
