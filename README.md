@@ -13,7 +13,7 @@
 - ```Python
   class aboutMe:
       def __init__(self):
-          self.name = "Dawid Komęza
+          self.name = "Dawid Komęza"
           self.age = 17
           self.job = High School
           self.role = "Frontend Developer"
