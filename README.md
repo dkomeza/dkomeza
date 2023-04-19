@@ -60,12 +60,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 April 2023 - To: 16 April 2023
+From: 10 April 2023 - To: 17 April 2023
 
-Total Time: 9 hrs 27 mins
+Total Time: 12 hrs 6 mins
 
-TypeScript   7 hrs 8 mins    ███████████████▓░░░░░░░░░   62.35 %
-Other        1 hr 58 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.32 %
+TypeScript   9 hrs 45 mins   █████████████████▓░░░░░░░   71.07 %
+Other        1 hr 37 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
 ```
 
 <!--END_SECTION:waka-->
