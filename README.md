@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 May 2023 - To: 12 May 2023
+From: 06 May 2023 - To: 13 May 2023
 
-Total Time: 4 hrs 6 mins
+Total Time: 8 hrs 30 mins
 
-TypeScript   3 hrs 20 mins   ███████████████████▒░░░░░   77.30 %
-JavaScript   16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
-Other        12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
-CFEngine3    10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
-Markdown     6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+TypeScript   6 hrs 11 mins   █████████████████▓░░░░░░░   71.13 %
+HTML         42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
+Rust         38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
+JavaScript   22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+Other        12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
 ```
 
 <!--END_SECTION:waka-->
