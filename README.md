@@ -60,12 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 June 2023 - To: 02 July 2023
+From: 26 June 2023 - To: 03 July 2023
 
-Total Time: 0 secs
+Total Time: 4 hrs 32 mins
 
-JSON    0 secs          ██████████████████░░░░░░░   71.61 %
-Other   0 secs          ███████░░░░░░░░░░░░░░░░░░   28.39 %
+C++           3 hrs 47 mins   ████████████████████▓░░░░   82.77 %
+HTML          19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
+CMake         15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
+C             8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+Other         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
 ```
 
 <!--END_SECTION:waka-->
