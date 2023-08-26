@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 August 2023 - To: 23 August 2023
+From: 17 August 2023 - To: 24 August 2023
 
-Total Time: 3 hrs 1 min
+Total Time: 2 hrs 6 mins
 
-Rust         1 hr 44 mins    ██████████████▒░░░░░░░░░░   57.30 %
-TypeScript   1 hr            ████████▒░░░░░░░░░░░░░░░░   33.44 %
-C++          9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
-JSON         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
-YAML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+TypeScript   1 hr            ████████████░░░░░░░░░░░░░   47.94 %
+Rust         1 hr            ████████████░░░░░░░░░░░░░   47.91 %
+JSON         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+C            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+TOML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
