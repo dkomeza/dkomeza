@@ -60,11 +60,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2023 - To: 07 September 2023
+From: 01 September 2023 - To: 08 September 2023
 
-Total Time: 0 secs
+Total Time: 5 mins
 
-No activity tracked
+C++     4 mins          ███████████████████▒░░░░░   77.21 %
+INI     1 min           █████▓░░░░░░░░░░░░░░░░░░░   22.63 %
+Ezhil   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
