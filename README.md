@@ -60,14 +60,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 September 2023 - To: 20 September 2023
+From: 14 September 2023 - To: 21 September 2023
 
-Total Time: 47 mins
+Total Time: 1 hr 11 mins
 
-C++     44 mins         ███████████████████████▒░   93.77 %
-INI     2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
-Ezhil   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+C++     1 hr 8 mins     ████████████████████████░   95.80 %
+INI     2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+Ezhil   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
