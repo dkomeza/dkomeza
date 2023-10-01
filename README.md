@@ -60,12 +60,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 September 2023 - To: 28 September 2023
+From: 22 September 2023 - To: 29 September 2023
 
 Total Time: 2 mins
 
-C++      2 mins          ███████████████████████░░   91.40 %
-Python   0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
+C++   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
