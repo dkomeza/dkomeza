@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 November 2023 - To: 11 November 2023
+From: 05 November 2023 - To: 12 November 2023
 
-Total Time: 2 hrs 38 mins
+Total Time: 4 hrs 25 mins
 
-Docker       59 mins         █████████░░░░░░░░░░░░░░░░   36.29 %
-JSON         53 mins         ████████░░░░░░░░░░░░░░░░░   32.25 %
-TypeScript   45 mins         ███████░░░░░░░░░░░░░░░░░░   27.70 %
-Other        5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Docker       1 hr 40 mins    █████████▒░░░░░░░░░░░░░░░   37.00 %
+JSON         54 mins         █████░░░░░░░░░░░░░░░░░░░░   20.07 %
+TypeScript   45 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.81 %
+YAML         37 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.82 %
+INI          21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
 ```
 
 <!--END_SECTION:waka-->
