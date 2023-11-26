@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 November 2023 - To: 23 November 2023
+From: 17 November 2023 - To: 24 November 2023
 
-Total Time: 1 hr 43 mins
+Total Time: 1 hr 45 mins
 
-Docker        45 mins         ███████████░░░░░░░░░░░░░░   44.12 %
-C++           31 mins         ███████▓░░░░░░░░░░░░░░░░░   30.64 %
-Git Config    17 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.30 %
-C             2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
-INI           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+Docker        45 mins         ██████████▓░░░░░░░░░░░░░░   43.11 %
+C++           34 mins         ████████▒░░░░░░░░░░░░░░░░   33.07 %
+Git Config    17 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.87 %
+C             2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+INI           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
 ```
 
 <!--END_SECTION:waka-->
