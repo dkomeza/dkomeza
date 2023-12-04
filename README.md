@@ -60,11 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 November 2023 - To: 01 December 2023
+From: 25 November 2023 - To: 02 December 2023
 
-Total Time: 0 secs
+Total Time: 38 mins
 
-JSON   0 secs          █████████████████████████   100.00 %
+CMake         18 mins         ████████████░░░░░░░░░░░░░   48.11 %
+C             8 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.72 %
+C++           6 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.11 %
+Markdown      2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
+Git Config    0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
 ```
 
 <!--END_SECTION:waka-->
