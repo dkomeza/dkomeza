@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 November 2023 - To: 02 December 2023
+From: 26 November 2023 - To: 03 December 2023
 
-Total Time: 38 mins
+Total Time: 3 hrs 43 mins
 
-CMake         18 mins         ████████████░░░░░░░░░░░░░   48.11 %
-C             8 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.72 %
-C++           6 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.11 %
-Markdown      2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
-Git Config    0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+Rust          3 hrs 4 mins    ████████████████████▓░░░░   82.44 %
+CMake         18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
+C             8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+C++           6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+Markdown      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 ```
 
 <!--END_SECTION:waka-->
