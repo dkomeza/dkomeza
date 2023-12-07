@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 November 2023 - To: 04 December 2023
+From: 29 November 2023 - To: 06 December 2023
 
-Total Time: 3 hrs 43 mins
+Total Time: 6 hrs 3 mins
 
-Rust          3 hrs 4 mins    ████████████████████▓░░░░   82.44 %
-CMake         18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
-C             8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
-C++           6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
-Markdown      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+Rust          4 hrs 45 mins   ███████████████████▓░░░░░   78.23 %
+Docker        30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
+CMake         18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
+C             8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+JSON          8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
 ```
 
 <!--END_SECTION:waka-->
