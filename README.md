@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 December 2023 - To: 14 December 2023
+From: 08 December 2023 - To: 15 December 2023
 
-Total Time: 10 hrs 51 mins
+Total Time: 11 hrs 9 mins
 
-Rust          6 hrs 1 min     ██████████████░░░░░░░░░░░   55.42 %
-YAML          3 hrs 8 mins    ███████▒░░░░░░░░░░░░░░░░░   28.98 %
-Bash          54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
-TOML          15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
-Markdown      11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+Rust          5 hrs 8 mins    ███████████▓░░░░░░░░░░░░░   46.15 %
+YAML          3 hrs 8 mins    ███████░░░░░░░░░░░░░░░░░░   28.21 %
+Python        55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 %
+Bash          54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
+TOML          15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
 ```
 
 <!--END_SECTION:waka-->
