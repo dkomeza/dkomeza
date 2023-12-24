@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 December 2023 - To: 21 December 2023
+From: 15 December 2023 - To: 22 December 2023
 
-Total Time: 4 hrs 55 mins
+Total Time: 4 hrs 59 mins
 
-Rust         2 hrs 5 mins    ██████████▒░░░░░░░░░░░░░░   41.89 %
-TypeScript   1 hr 27 mins    ███████▒░░░░░░░░░░░░░░░░░   29.20 %
-Python       55 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.71 %
-Git Config   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-CSS          6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+Rust          3 hrs 1 min     ███████████████░░░░░░░░░░   59.74 %
+TypeScript    1 hr 22 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.08 %
+JSON          13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
+Git Config    9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+Other         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
 ```
 
 <!--END_SECTION:waka-->
