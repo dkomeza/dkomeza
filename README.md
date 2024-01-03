@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2023 - To: 31 December 2023
+From: 25 December 2023 - To: 01 January 2024
 
-Total Time: 7 hrs 18 mins
+Total Time: 5 hrs 52 mins
 
-C++               5 hrs 28 mins   ██████████████████▓░░░░░░   75.00 %
-Rust              1 hr 7 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.36 %
-Markdown          17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
-INI               7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-Bash              6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+C++               4 hrs 35 mins   ███████████████████▓░░░░░   78.33 %
+Rust              1 hr 7 mins     ████▓░░░░░░░░░░░░░░░░░░░░   19.13 %
+Markdown          7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+JSON              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+INI               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
