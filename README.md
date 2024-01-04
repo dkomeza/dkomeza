@@ -60,15 +60,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 December 2023 - To: 01 January 2024
+From: 26 December 2023 - To: 02 January 2024
 
-Total Time: 5 hrs 52 mins
+Total Time: 4 hrs 15 mins
 
-C++               4 hrs 35 mins   ███████████████████▓░░░░░   78.33 %
-Rust              1 hr 7 mins     ████▓░░░░░░░░░░░░░░░░░░░░   19.13 %
-Markdown          7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-JSON              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-INI               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+C++        2 hrs 37 mins   ███████████████▒░░░░░░░░░   61.47 %
+Rust       1 hr 30 mins    ████████▓░░░░░░░░░░░░░░░░   35.31 %
+Markdown   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
