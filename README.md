@@ -60,13 +60,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 December 2023 - To: 06 January 2024
+From: 31 December 2023 - To: 07 January 2024
 
-Total Time: 44 mins
+Total Time: 24 mins
 
-Rust   26 mins         ███████████████░░░░░░░░░░   60.12 %
-C++    16 mins         █████████▒░░░░░░░░░░░░░░░   37.36 %
-JSON   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+Rust   24 mins         ████████████████████████▓   98.53 %
+JSON   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+C++    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
