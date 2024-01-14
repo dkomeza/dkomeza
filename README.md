@@ -60,12 +60,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 January 2024 - To: 11 January 2024
+From: 05 January 2024 - To: 12 January 2024
 
-Total Time: 1 min
+Total Time: 19 mins
 
-Rust   1 min           ███████████████████▓░░░░░   78.29 %
-JSON   0 secs          █████▒░░░░░░░░░░░░░░░░░░░   21.71 %
+C++           14 mins         ██████████████████▓░░░░░░   74.36 %
+C             3 mins          █████░░░░░░░░░░░░░░░░░░░░   20.47 %
+Objective-C   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
 ```
 
 <!--END_SECTION:waka-->
