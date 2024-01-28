@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 January 2024 - To: 25 January 2024
+From: 19 January 2024 - To: 26 January 2024
 
-Total Time: 14 hrs 52 mins
+Total Time: 18 hrs 53 mins
 
-C++               13 hrs 16 mins  ██████████████████████▒░░   89.27 %
-TypeScript        37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
-C                 34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
-Processing        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-Objective-C       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+C++               16 hrs 41 mins  ██████████████████████░░░   88.24 %
+C                 58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
+Bash              33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+Processing        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+INI               12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 ```
 
 <!--END_SECTION:waka-->
