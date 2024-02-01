@@ -60,11 +60,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 January 2024 - To: 29 January 2024
+From: 23 January 2024 - To: 30 January 2024
 
 Total Time: 8 hrs 27 mins
 
-C++           7 hrs           ████████████████████▓░░░░   82.77 %
+C++           7 hrs           ████████████████████▓░░░░   82.80 %
 Bash          33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
 C             26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
 INI           11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
