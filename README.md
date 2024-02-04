@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 January 2024 - To: 01 February 2024
+From: 26 January 2024 - To: 02 February 2024
 
-Total Time: 8 hrs 21 mins
+Total Time: 2 hrs 58 mins
 
-C++           6 hrs 52 mins   ████████████████████▓░░░░   82.04 %
-Bash          34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
-C             26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
-INI           11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
-JSON          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+C++           2 hrs 44 mins   ███████████████████████░░   92.13 %
+Objective-C   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+SQL           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+C             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+CMake         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
 ```
 
 <!--END_SECTION:waka-->
