@@ -60,15 +60,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 January 2024 - To: 02 February 2024
+From: 27 January 2024 - To: 03 February 2024
 
-Total Time: 2 hrs 58 mins
+Total Time: 5 mins
 
-C++           2 hrs 44 mins   ███████████████████████░░   92.13 %
-Objective-C   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
-SQL           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-C             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
-CMake         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+SQL          3 mins          ███████████████░░░░░░░░░░   59.39 %
+Markdown     1 min           █████▓░░░░░░░░░░░░░░░░░░░   23.28 %
+Bash         0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.98 %
+TypeScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
 ```
 
 <!--END_SECTION:waka-->
