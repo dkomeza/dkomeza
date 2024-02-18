@@ -60,11 +60,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 February 2024 - To: 15 February 2024
+From: 09 February 2024 - To: 16 February 2024
 
-Total Time: 0 secs
+Total Time: 1 hr 4 mins
 
-INI   0 secs          █████████████████████████   100.00 %
+Python   37 mins         ██████████████▓░░░░░░░░░░   58.49 %
+C++      26 mins         ██████████▒░░░░░░░░░░░░░░   41.15 %
+INI      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->
