@@ -60,13 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 February 2024 - To: 21 February 2024
+From: 15 February 2024 - To: 22 February 2024
 
-Total Time: 1 hr 59 mins
+Total Time: 5 hrs 46 mins
 
-C++      1 hr 21 mins    ████████████████▓░░░░░░░░   66.82 %
-Python   38 mins         ███████▓░░░░░░░░░░░░░░░░░   31.16 %
-Other    2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+TypeScript                 1 hr 34 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.63 %
+C++                        1 hr 21 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.07 %
+Docker                     39 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 %
+Python                     38 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
+Prisma                     36 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 %
 ```
 
 <!--END_SECTION:waka-->
