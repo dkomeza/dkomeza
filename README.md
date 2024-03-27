@@ -60,11 +60,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 March 2024 - To: 24 March 2024
+From: 18 March 2024 - To: 25 March 2024
 
 Total Time: 3 hrs 3 mins
 
-C++           1 hr 10 mins    █████████▒░░░░░░░░░░░░░░░   37.87 %
+C++           1 hr 10 mins    █████████▒░░░░░░░░░░░░░░░   37.86 %
 C             1 hr            ████████░░░░░░░░░░░░░░░░░   32.64 %
 JSON          37 mins         █████░░░░░░░░░░░░░░░░░░░░   20.35 %
 TypeScript    7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
