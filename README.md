@@ -60,12 +60,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 March 2024 - To: 03 April 2024
+From: 28 March 2024 - To: 04 April 2024
 
 Total Time: 1 hr 13 mins
 
-C++   1 hr 12 mins    ████████████████████████▓   98.81 %
-INI   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+C++    1 hr 12 mins    ████████████████████████▓   98.59 %
+INI    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
