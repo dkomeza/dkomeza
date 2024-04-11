@@ -60,15 +60,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 April 2024 - To: 08 April 2024
+From: 03 April 2024 - To: 10 April 2024
 
-Total Time: 1 hr 13 mins
+Total Time: 0 secs
 
-C++          1 hr 12 mins    ████████████████████████▓   98.41 %
-INI          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
-SSH Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+SSH Config   0 secs          ███████████▒░░░░░░░░░░░░░   45.21 %
+JSON         0 secs          ████████▓░░░░░░░░░░░░░░░░   34.61 %
+YAML         0 secs          █████░░░░░░░░░░░░░░░░░░░░   20.18 %
 ```
 
 <!--END_SECTION:waka-->
