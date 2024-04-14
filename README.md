@@ -60,11 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 April 2024 - To: 11 April 2024
+From: 06 April 2024 - To: 13 April 2024
 
-Total Time: 0 secs
+Total Time: 11 hrs 38 mins
 
-SSH Config   0 secs          █████████████████████████   100.00 %
+C++           10 hrs 31 mins  ██████████████████████▓░░   90.40 %
+INI           1 hr 3 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 %
+Objective-C   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+HTML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+CSS           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
