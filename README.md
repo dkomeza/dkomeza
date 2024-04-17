@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 April 2024 - To: 14 April 2024
+From: 08 April 2024 - To: 15 April 2024
 
-Total Time: 11 hrs 38 mins
+Total Time: 12 hrs 15 mins
 
-C++           10 hrs 31 mins  ██████████████████████▓░░   90.40 %
-INI           1 hr 3 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 %
-Objective-C   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-HTML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-CSS           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+C++                        10 hrs 34 mins  █████████████████████▒░░░   85.74 %
+INI                        1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
+TSConfig                   23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+Prisma                     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Other                      4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 ```
 
 <!--END_SECTION:waka-->
