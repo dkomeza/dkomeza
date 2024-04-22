@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 April 2024 - To: 19 April 2024
+From: 13 April 2024 - To: 20 April 2024
 
-Total Time: 6 hrs 40 mins
+Total Time: 2 hrs 44 mins
 
-C++                        3 hrs 13 mins   ████████████░░░░░░░░░░░░░   47.72 %
-Zig                        2 hrs 7 mins    ████████░░░░░░░░░░░░░░░░░   31.44 %
-INI                        45 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 %
-TSConfig                   23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
-Prisma                     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Zig                        2 hrs 7 mins    ███████████████████░░░░░░   75.69 %
+TSConfig                   23 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.78 %
+Prisma                     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+Other                      3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+Docker                     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
 ```
 
 <!--END_SECTION:waka-->
