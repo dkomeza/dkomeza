@@ -60,11 +60,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 May 2024 - To: 16 May 2024
+From: 10 May 2024 - To: 17 May 2024
 
-Total Time: 0 secs
+Total Time: 3 mins
 
-No activity tracked
+C++   2 mins          ████████████████████████▓   99.32 %
+C     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 ```
 
 <!--END_SECTION:waka-->
