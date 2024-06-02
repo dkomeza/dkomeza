@@ -60,11 +60,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 May 2024 - To: 30 May 2024
+From: 24 May 2024 - To: 31 May 2024
 
-Total Time: 0 secs
+Total Time: 13 mins
 
-No activity tracked
+C++    7 mins          █████████████▒░░░░░░░░░░░   53.20 %
+INI    5 mins          ██████████░░░░░░░░░░░░░░░   40.09 %
+Bash   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
 ```
 
 <!--END_SECTION:waka-->
