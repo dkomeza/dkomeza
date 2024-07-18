@@ -60,13 +60,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 July 2024 - To: 14 July 2024
+From: 09 July 2024 - To: 16 July 2024
 
-Total Time: 1 hr 22 mins
+Total Time: 30 mins
 
-C++    1 hr 17 mins    ███████████████████████▒░   93.94 %
-Bash   4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
-INI    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+C++    26 mins         █████████████████████░░░░   84.58 %
+Bash   4 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.42 %
 ```
 
 <!--END_SECTION:waka-->
