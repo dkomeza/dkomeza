@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 September 2024 - To: 05 October 2024
+From: 29 September 2024 - To: 06 October 2024
 
-Total Time: 7 hrs 51 mins
+Total Time: 9 hrs 22 mins
 
-C++     7 hrs 43 mins   ████████████████████████▓   98.21 %
-INI     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-C       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-Text    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+C++      8 hrs 57 mins   ████████████████████████░   95.41 %
+Python   17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+INI      7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+C        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
