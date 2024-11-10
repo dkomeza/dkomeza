@@ -60,11 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 October 2024 - To: 07 November 2024
+From: 02 November 2024 - To: 09 November 2024
 
-Total Time: 32 mins
+Total Time: 4 hrs
 
-Python   32 mins         █████████████████████████   100.00 %
+Bash         1 hr 26 mins    █████████░░░░░░░░░░░░░░░░   36.18 %
+Rust         1 hr 17 mins    ████████░░░░░░░░░░░░░░░░░   32.30 %
+Python       32 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.45 %
+TOML         26 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 %
+PowerShell   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
 ```
 
 <!--END_SECTION:waka-->
