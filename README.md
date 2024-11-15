@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 November 2024 - To: 12 November 2024
+From: 06 November 2024 - To: 13 November 2024
 
-Total Time: 4 hrs 20 mins
+Total Time: 4 hrs 23 mins
 
-Rust         2 hrs 10 mins   ████████████▒░░░░░░░░░░░░   49.98 %
-Bash         1 hr 26 mins    ████████▒░░░░░░░░░░░░░░░░   33.36 %
-TOML         26 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 %
-PowerShell   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-Markdown     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+Rust         2 hrs 13 mins   ████████████▓░░░░░░░░░░░░   50.56 %
+Bash         1 hr 26 mins    ████████▒░░░░░░░░░░░░░░░░   32.97 %
+TOML         26 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
+PowerShell   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+Markdown     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
 ```
 
 <!--END_SECTION:waka-->
