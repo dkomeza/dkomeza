@@ -60,13 +60,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 November 2024 - To: 28 November 2024
+From: 23 November 2024 - To: 30 November 2024
 
-Total Time: 3 hrs
+Total Time: 1 hr 24 mins
 
-Rust     2 hrs 39 mins   ██████████████████████░░░   88.18 %
-Python   21 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 %
-Bash     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Rust   1 hr 24 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
