@@ -60,11 +60,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 November 2024 - To: 05 December 2024
+From: 29 November 2024 - To: 06 December 2024
 
-Total Time: 0 secs
+Total Time: 42 mins
 
-No activity tracked
+Rust     27 mins         ████████████████░░░░░░░░░   64.41 %
+Python   14 mins         █████████░░░░░░░░░░░░░░░░   35.59 %
 ```
 
 <!--END_SECTION:waka-->
