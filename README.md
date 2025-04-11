@@ -60,13 +60,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 April 2025 - To: 08 April 2025
+From: 03 April 2025 - To: 10 April 2025
 
-Total Time: 10 hrs 55 mins
+Total Time: 3 hrs 31 mins
 
-Rust     10 hrs 47 mins  ████████████████████████▓   98.71 %
-Python   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
-TOML     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Rust   3 hrs 29 mins   ████████████████████████▓   98.99 %
+TOML   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
 ```
 
 <!--END_SECTION:waka-->
