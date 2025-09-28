@@ -60,13 +60,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 September 2025 - To: 25 September 2025
+From: 20 September 2025 - To: 27 September 2025
 
-Total Time: 22 mins
+Total Time: 34 mins
 
-Rust         21 mins         ████████████████████░░░░░   80.22 %
-Other        4 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.00 %
-SSH Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+Rust         33 mins         █████████████████████▓░░░   87.23 %
+Other        4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.54 %
+SSH Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 ```
 
 <!--END_SECTION:waka-->
