@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 January 2026 - To: 25 January 2026
+From: 19 January 2026 - To: 26 January 2026
 
-Total Time: 11 hrs 26 mins
+Total Time: 12 hrs 38 mins
 
-Java         5 hrs 20 mins   ███████████▓░░░░░░░░░░░░░   46.73 %
-TypeScript   2 hrs 26 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.30 %
-Markdown     1 hr 41 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.81 %
-SQL          1 hr 7 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 %
-Rust         35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+Java         5 hrs 20 mins   ██████████▓░░░░░░░░░░░░░░   42.32 %
+TypeScript   3 hrs 37 mins   ███████▒░░░░░░░░░░░░░░░░░   28.73 %
+Markdown     1 hr 41 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.41 %
+SQL          1 hr 7 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.90 %
+Rust         35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
 ```
 
 <!--END_SECTION:waka-->
