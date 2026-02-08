@@ -60,12 +60,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 January 2026 - To: 05 February 2026
+From: 30 January 2026 - To: 06 February 2026
 
-Total Time: 8 mins
+Total Time: 0 secs
 
-Java         7 mins          ███████████████████████▓░   95.25 %
-TypeScript   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
