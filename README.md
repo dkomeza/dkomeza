@@ -60,15 +60,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 February 2026 - To: 04 March 2026
+From: 27 February 2026 - To: 06 March 2026
 
-Total Time: 4 hrs 48 mins
+Total Time: 2 hrs 46 mins
 
-TypeScript   2 hrs 26 mins         ████████████▒░░░░░░░░░░░░   49.32 %
-YAML         43 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.73 %
-Bash         38 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 %
-CSV          32 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
-sshconfig    22 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
+YAML         43 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.00 %
+Bash         38 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.05 %
+CSV          30 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.35 %
+TypeScript   27 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.51 %
+sshconfig    22 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.75 %
 ```
 
 <!--END_SECTION:waka-->
