@@ -1,77 +1,101 @@
-<h1>👋 Hi, I’m Dawid</h1>
+<h1 align="center">Hi, I’m Dawid 👋</h1>
+
 <p align="center">
-   <br>
-   <br>
-   <img src="https://user-images.githubusercontent.com/106035813/169717090-b330e670-ddca-48c9-8b2d-2290dfb78111.png" width="50%">
-   <br>
-   <br>
+<strong>Software Engineering Intern @software-mansion | CS @ AGH | TypeScript, Rust, C/C++ | React Native | Embedded, Web & Mobile</strong>
 </p>
 
+---
 
+## 🎯 About Me
 
-- <h2>💁 About me</h2>
-- ```Python
-  class aboutMe:
-      def __init__(self):
-          self.name = "Dawid Komęza"
-          self.age = 18
-          self.job = High School
-          self.role = "Frontend Developer"
-          self.language_spoken = ["pl_PL", "en_US"]
+Computer Science student at AGH University of Kraków, currently working as a Software Engineering Intern. I’m mainly interested in systems programming, embedded development, and building software that actually interacts with the real world.
 
-      def say_hi(self):
-          print("Thanks for dropping by, hope you find some of my work interesting.")
+Most of my work sits somewhere between low-level and full-stack — I enjoy building hardware, writing firmware, designing communication protocols, and then building the backend or mobile layer on top of it. I tend to focus on things like performance, reliability, and keeping the architecture simple and maintainable.
 
+---
 
-  me = aboutMe()
-  me.say_hi()
-  ```
-  
-- <h2>🔨 Tools I'm using</h2>
-- ```html
-  <ul>
-    <li>HTML5</li>
-    <li>CSS3</li>
-    <li>Bootstrap 5</li>
-    <li>Javascript</li>
-    <li>Python</li>
-  </ul>
-  
-- <h2>🌱 I’m currently learning</h2>
-- ```javascript
-  let learning = {
-      python: [flask, pandas, matplotlib, api, numpy, opencv],
-      javascript: [reactjs, nodejs, express]
-  }
-  ```
-  
-- <h2>📫 How to reach me</h2>
-- ```html
-  <table>
-    <tr>
-      <td>Email: </td><td>dawid.komeza@outlook.com</td>
-    </tr>
-    <tr>
-      <td>Twitter: </td><td><a href="https://twitter.com/dkomeza" target="_blank">@dkomeza</a></td>
-    </tr>
-  </table>
-  
-- <h2>🕒 Coding time</h2>
+## 🛠 Tech Stack
+
+**Languages**
+
+* TypeScript
+* Rust
+* C / C++
+
+**Frontend & Mobile**
+
+* React
+* React Native
+
+**Backend & Systems**
+
+* Node.js (Express)
+* REST APIs
+* Redis (sessions, caching)
+
+**Embedded**
+
+* STM32 (HAL)
+* ESP32 (ESP-IDF / Arduino)
+* CAN, UART, custom protocols
+
+---
+
+## 📌 Selected Projects
+
+### 🔧 Systems & Embedded
+
+* **[Peak – Custom E-Bike Display](https://github.com/dkomeza/peak)**
+  High-performance e-bike display built on ESP32-P4 with MIPI display support. Implements CAN/UART communication and is designed for extensibility with a mobile companion app (configuration + telemetry). Focus on real-time performance, modern UI, and system integration.
+
+---
+
+### 🌐 Full-Stack Systems
+
+* **[Tisane – Block-Based CMS](https://github.com/dkomeza/tisane)**
+  Full-stack CMS built with Next.js, Prisma, and S3. Supports custom content blocks, admin panel (users, pages, menus), and server-side caching. Containerized with Docker Compose for reproducible deployment.
+
+---
+
+### ⚙️ Tools & Developer Experience
+
+* **[tiny-git-helper](https://github.com/dkomeza/tiny-git-helper)**
+  Terminal-based Git utility written in Rust using Crossterm. Provides streamlined commit workflows with interactive file selection, structured messages, and improved UX over raw CLI.
+
+---
+
+### 🧪 Additional Projects
+
+<p align="center">
+  <a href="https://github.com/dkomeza/open-source-kt-display" >
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dkomeza&repo=open-source-kt-display" />
+  </a>
+  <a href="https://github.com/dkomeza/oskd">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dkomeza&repo=oskd" />
+  </a>
+</p>
+
+---
+
+## 📊 Activity
+
 <!--START_SECTION:waka-->
-
-```txt
-From: 09 March 2026 - To: 16 March 2026
-
-Total Time: 26 hrs 58 mins
-
-TypeScript      15 hrs 56 mins        ██████████████▓░░░░░░░░░░   58.59 %
-Rust            2 hrs 18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
-Markdown        1 hr 53 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
-JSON            1 hr 21 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
-C++             1 hr 19 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
-```
 
 <!--END_SECTION:waka-->
 
- - <h2>:computer: Languages I use</h2>
- - <a href="https://wakatime.com"><img src="https://wakatime.com/share/@c31628c9-1088-43b5-852b-e92972eaabe6/e653ca91-8397-4579-9132-0c3ef14be511.png" /></a>
+---
+
+## ⚡ Current Focus
+
+* Systems programming (Rust, C/C++)
+* Embedded control systems
+* React Native mobile development
+* Scalable backend architecture
+
+---
+
+## 📫 Contact
+
+<p align="center">
+  📧 dawid.komeza@outlook.com • 🌐 <a href="https://github.com/dkomeza">GitHub</a>
+</p>
