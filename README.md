@@ -82,15 +82,15 @@ Most of my work sits somewhere between low-level and full-stack — I enjoy buil
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 June 2026 - To: 29 June 2026
+From: 23 June 2026 - To: 30 June 2026
 
-Total Time: 19 hrs 55 mins
+Total Time: 24 hrs 11 mins
 
-TypeScript   17 hrs 16 mins        █████████████████████▓░░░   86.72 %
-Markdown     1 hr 25 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
-Diff         28 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-Text         11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-YAML         10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+TypeScript   20 hrs 47 mins        █████████████████████▒░░░   85.99 %
+Markdown     2 hrs 13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 %
+Diff         28 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Text         11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+YAML         10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 ```
 
 <!--END_SECTION:waka-->
