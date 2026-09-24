@@ -82,15 +82,15 @@ Most of my work sits somewhere between low-level and full-stack — I enjoy buil
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 September 2026 - To: 21 September 2026
+From: 15 September 2026 - To: 22 September 2026
 
-Total Time: 20 hrs 7 mins
+Total Time: 15 hrs 9 mins
 
-Other        6 hrs 30 mins         ██████░░░░░░░░░░░░░░░░░░░   24.44 %
-Markdown     5 hrs 53 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.13 %
-Bash         3 hrs 6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
-Python       3 hrs 1 min           ███░░░░░░░░░░░░░░░░░░░░░░   11.36 %
-CSV          2 hrs 30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
+Other        4 hrs 43 mins         ██████░░░░░░░░░░░░░░░░░░░   23.77 %
+Markdown     3 hrs 51 mins         █████░░░░░░░░░░░░░░░░░░░░   19.36 %
+Bash         3 hrs 2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.29 %
+Python       3 hrs 1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   15.22 %
+CSV          2 hrs 30 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 %
 ```
 
 <!--END_SECTION:waka-->
