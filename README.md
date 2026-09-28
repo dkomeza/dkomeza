@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I’m Dawid 👋</h1>
 
 <p align="center">
-<strong>Software Engineering Intern @software-mansion | CS @ AGH | TypeScript, Rust, C/C++ | React Native | Embedded, Web & Mobile</strong>
+<strong>Software Engineer @software-mansion | CS @ AGH | TypeScript, Rust, C/C++ | React Native | Embedded, Web & Mobile</strong>
 </p>
 
 ---
